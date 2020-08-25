@@ -1,0 +1,5 @@
+type syso + ctrl + spacebar + Enter -->Print System.out.println()
+Ctrl + shift + s Save All files
+Write main -> Ctrl + Spacebar will bring Main function
+Shift + ctrl + f -> Indent
+F11 to Run Java Application
